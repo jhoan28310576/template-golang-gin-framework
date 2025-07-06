@@ -34,9 +34,20 @@ Diseño limpio y profesional
 Ejecutar el servidor:
  go run cmd/webserver/main.go
  
+https://github.com/user-attachments/assets/4c955790-2603-4170-a808-bfaec27992c5
+
 
 Acceder a las rutas:
 http://localhost:8080/ - Mensaje de bienvenida
 http://localhost:8080/html - Página web interactiva
 http://localhost:8080/api/info - Información del proyecto
  Puedes acceder a http://localhost:8080/html para ver la página web interactiva y probar todas las funcionalidades de Gin.
+
+
+https://github.com/user-attachments/assets/a1b32865-11b9-4d74-8b04-cfd6323ba621
+
+
+
+
+
+ 
